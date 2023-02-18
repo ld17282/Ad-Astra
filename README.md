@@ -9,7 +9,7 @@
 <!-- FlowSpace Readme -->
 <h1 align="center">
 <br/>
-<img height= "200" src="./client/assets/readme logo.png">
+<img height= "200" src=".src/client/assets/readme logo.png">
 
 <h2 align= "center">
 
