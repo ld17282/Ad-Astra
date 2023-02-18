@@ -10,7 +10,7 @@ spaceXController.getLaunches = (req, res, next) => {
     { headers: { Authentication: 'Bearer {token}' } }
   )
     // PARSE RESPONSE BODY TEXT AS JSON
-    // .then((data) => data.json())
+    .then((data) => data.json())
     // ALGORITHM TO PARSE DATA INTO CORRECT FORM
     .then((data) => {
       console.log(data);
