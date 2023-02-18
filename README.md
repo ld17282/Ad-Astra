@@ -11,7 +11,7 @@
 <br/>
 <img height= "200" src="./src/client/assets/readme logo.png">
 
-Ad Astra keeps track of all upcoming SpaceX rocket launches. Launch dates change constantly, so Ad Astra acts as your launch concierge to make sure you never miss out on witnessing history.
+<p>Ad Astra keeps track of all upcoming SpaceX rocket launches. Launch dates change constantly, so Ad Astra acts as your launch concierge to make sure you never miss out on witnessing history.</p>
 
 <center>
 
