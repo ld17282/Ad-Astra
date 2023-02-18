@@ -9,7 +9,7 @@
 <!-- FlowSpace Readme -->
 <h1 align="center">
 <br/>
-<img height= "200" src=".src/client/assets/readme logo.png">
+<img height= "200" src="./src/client/assets/readme logo.png">
 
 <h2 align= "center">
 
@@ -17,7 +17,6 @@ Never Miss Out On Witnessing History
 
 ![GitHub top language](https://img.shields.io/github/languages/top/ld17282/Ad-Astra) &nbsp;
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/ld17282/Ad-Astra) &nbsp;
-<!--![npm](https://img.shields.io/npm/v/flowspace.js) &nbsp;-->
 ![GitHub](https://img.shields.io/github/license/ld17282/Ad-Astra) &nbsp;
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ld17282/Ad-Astra/main) &nbsp;
 ![GitHub contributors](https://img.shields.io/github/contributors/ld17282/Ad-Astra) &nbsp;
