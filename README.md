@@ -1,4 +1,4 @@
-# Ad-Astra
+# Ad Astra
 
 <!-- style -->
 <!-- <style>
@@ -11,8 +11,8 @@
 <br/>
 <img height= "200" src="./src/client/assets/readme logo.png">
 
-<h2 align= "center">
-
+<!--<h2 align="center">-->
+<center>
 Never Miss Out On Witnessing History 
 
 ![GitHub top language](https://img.shields.io/github/languages/top/ld17282/Ad-Astra) &nbsp;
@@ -21,8 +21,8 @@ Never Miss Out On Witnessing History
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ld17282/Ad-Astra/main) &nbsp;
 ![GitHub contributors](https://img.shields.io/github/contributors/ld17282/Ad-Astra) &nbsp;
 ![GitHub Repo stars](https://img.shields.io/github/stars/ld17282/Ad-Astra?style=social) &nbsp;
-
-</h2>
+<center>
+<!--</h2>-->
 </h1>
 
 <!-- <details open>
