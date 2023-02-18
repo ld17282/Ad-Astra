@@ -62,21 +62,17 @@ Ad Astra keeps track of all upcoming SpaceX rocket launches. Launch dates change
                         <img height= "40" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
                     </code> <br>
                 </div>
-                <code>
-                    <img height = "40" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-                    <img height = "40" src="https://img.icons8.com/color/48/000000/css3.png"/>
-                </code> <br>
-            </div>
+                    <code>
+                        <img height = "40" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+                        <img height = "40" src="https://img.icons8.com/color/48/000000/css3.png"/>
+                    </code> <br>
+                </div>
             <code>
-                <img height = "40" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
                 <img height = "40" src="https://img.icons8.com/bubbles/50/000000/react.png"/>
                 <img height = "40" src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
             </code><br>
         </div>
     <code>
-        <img height = "40" src="https://cdn.icon-icons.com/icons2/2389/PNG/48/socket_io_logo_icon_144874.png"/>
-        <img height = "40" src="https://reactflow.dev/img/logo.svg"/>
-        <img height = "40" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/50/000000/external-d3js-a-javascript-library-for-producing-dynamic-interactive-data-visualizations-in-web-browsers-logo-duo-tal-revivo.png"/>
         <img height = "40" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
         <img height = "40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-shadow-tal-revivo.png"/>
     </code> <br>
@@ -85,6 +81,16 @@ Ad Astra keeps track of all upcoming SpaceX rocket launches. Launch dates change
 </details>
 
 <details open> 
+    <summary><b> The Team </b></summary> <a name="contacts"></a>
+
+<p>Laurence is a creative Astronautical Engineer 🚀 turned Software Engineer 👩🏽‍💻, highly skilled in JavaScript, React, CSS/SCSS, and Three.js. I am adept at driving ideas to fruition, wrangling the ideation process by distilling ideas to their essence and nurturing them into tangible projects. I consistently harnesses my dedication to creativity in order to foster a culture of innovative thought, and always rises to the challenge of sustaining motivation that cascades throughout a team.</p>
+
+- [GitHub](https://github.com/ld17282)
+- [LinkedIn](https://www.linkedin.com/in/laurencediarra/)
+
+</details>
+
+<details closed> 
     <summary><b> License </b></summary> <a name="license"></a>
 
 MIT License
@@ -108,15 +114,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-</details>
-
-<details open> 
-    <summary><b> The Team </b></summary> <a name="contacts"></a>
-
-<p>Laurence is a creative Astronautical Engineer 🚀 turned Software Engineer 👩🏽‍💻, highly skilled in JavaScript, React, CSS/SCSS, and Three.js. I am adept at driving ideas to fruition, wrangling the ideation process by distilling ideas to their essence and nurturing them into tangible projects. I consistently harnesses my dedication to creativity in order to foster a culture of innovative thought, and always rises to the challenge of sustaining motivation that cascades throughout a team.</p>
-
-- [GitHub](https://github.com/ld17282)
-- [LinkedIn](https://www.linkedin.com/in/laurencediarra/)
 
 </details>
