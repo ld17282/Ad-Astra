@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+}
+  
+  @font-face {
+    font-family: 'TAN-NIMBUS';
+    src: local('TAN-NIMBUS-1'), url('/assets/fonts/TAN-NIMBUS/TAN-NIMBUS.otf') format('otf');
+    src: local('TAN-NIMBUS-2'), url('/assets/fonts/TAN-NIMBUS/TAN-NIMBUS.ttf') format('ttf');
+  }
+
+.site-title {
+    font-family: TAN-NIMBUS;
+    font-size: x-large;
+    color: #F4B400;
+    position: absolute;
+    padding-top: 2rem;
+    padding-left: 45%;
+    padding-bottom: 5%;
+}
+
+.TR {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    width: 20%;
+}
+
+.TL {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 25%;
+}
+
+.BR {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    width: 60%;
+}
+
+.BL {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+}
+
