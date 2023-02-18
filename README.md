@@ -13,7 +13,8 @@
 
 
 <center>
-Never Miss Out On Witnessing History 
+
+<h2>Never Miss Out On Witnessing History</h2>
 
 ![GitHub top language](https://img.shields.io/github/languages/top/ld17282/Ad-Astra) &nbsp;
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/ld17282/Ad-Astra) &nbsp;
