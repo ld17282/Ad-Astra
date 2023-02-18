@@ -6,12 +6,12 @@
     font-weight: 700}
 </style> -->
 
-<!-- FlowSpace Readme -->
+<!-- Ad Astra Readme -->
 <h1 align="center">
 <br/>
 <img height= "200" src="./src/client/assets/readme logo.png">
 
-<!--<h2 align="center">-->
+
 <center>
 Never Miss Out On Witnessing History 
 
@@ -22,35 +22,14 @@ Never Miss Out On Witnessing History
 ![GitHub contributors](https://img.shields.io/github/contributors/ld17282/Ad-Astra) &nbsp;
 ![GitHub Repo stars](https://img.shields.io/github/stars/ld17282/Ad-Astra?style=social) &nbsp;
 <center>
-<!--</h2>-->
+
 </h1>
 
-<!-- <details open>
-    <summary><b>FlowSpace</b></summary>
-    <ol>
-        <li>
-            <a href = "#problem"> Problem </a>
-        </li>
-        <li>
-            <a href = "#solution"> Solution </a>
-        </li>
-    </ol>
-</details> -->
 
 <hr>
-<h3> <b>About FlowSpace</b> </h3><br/>
+<h3> <b>About Ad Astra</b> </h3><br/>
 
-<b> Problem </b><a name="problem"></a>
-
-Despite the fact that machine learning plays a crucial part in advancing the tech industry, many developers view it as intimidating due to its complexity, which consequently discourages many developers from engaging with it. To address the problem, Google’s Brain Team developed TensorFlow.js in 2018 to help bring machine learning to JavaScript developers with little to no experience in machine learning. While TensorFlow.js is simplified, it lacks direct support for Tensorboard, the visualization tool for its counterpart, TensorFlow.
-
-<b> Solution </b><a name="solution"></a>
-
-<p>Our team’s core mission was to develop a real time model and data visualization tool for TensorFlow.js that requires minimal set-up by the developer while simultaneously providing them with all the necessary information required to fully comprehend their machine learning model. This allows the developer to make well informed decisions in regards to how they need to alter their model to improve accuracy while lowering the required number of epochs per training cycle.
-This led the team to develop FlowSpace, a light-weight npm package that generates highly valuable data and intuitive visuals whilst remaining effortless to set-up.
-
-FlowSpace is developed using agile methodology in collaboration with the tech accelerator OS Labs (opensourcelabs.io)</p>
-
+Ad Astra keeps track of all upcoming SpaceX rocket launches. Launch dates change constantly, so Ad Astra acts as your launch concierge to make sure you never miss out on witnessing history.
 </details>
 
 ---
