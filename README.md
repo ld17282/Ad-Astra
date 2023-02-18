@@ -11,11 +11,9 @@
 <br/>
 <img height= "200" src="./src/client/assets/readme logo.png">
 
-<p>Ad Astra keeps track of all upcoming SpaceX rocket launches. Launch dates change constantly, so Ad Astra acts as your launch concierge to make sure you never miss out on witnessing history.</p>
-
 <center>
-
-<center><h2>Never Miss Out On Witnessing History</h2><center>
+<br/>
+Never Miss Out On Witnessing History
 
 ![GitHub top language](https://img.shields.io/github/languages/top/ld17282/Ad-Astra) &nbsp;
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/ld17282/Ad-Astra) &nbsp;
@@ -87,68 +85,6 @@ Ad Astra keeps track of all upcoming SpaceX rocket launches. Launch dates change
 </details>
 
 <details open> 
-    <summary><b> Install and Set-up </b></summary> <a name="installAndSetup"></a>
-
-<br/>
-
-1. Install our npm package in your terminal.
-
-```sh
-npm install flowspace.js
-```
-
-2. Import HandShake class from the FlowSpace node_modules.
-
-```sh
-import { HandShake } from "flowspace";
-```
-
-3. Declare your variable for the TensorFlow createModel function.
-
-```sh
-const model = createModel();
-```
-
-4. Instantiate a new instance of the HandShake class, passing in your model object.
-
-```sh
-const visualizer = new HandShake(model);
-```
-
-5. Ensure when training the model, pass the lossCallback method from the HandShake instance into the fit method.
-
-```sh
-    ## Example below ##
-
-    model.fit(trainingFeatureTensor, trainingLabelTensor, {
-		epochs: 20,
-		callbacks: {
-			onEpochEnd: visualizer.lossCallback
-		},
-	});
-```
-
-6. When ready, simply run the FlowSpace functionality in your terminal.
-
-```sh
-npx flowspace
-```
-
-</details>
-
-<details open> 
-    <summary><b> Using FlowSpace Features </b></summary> <a name="usingFlowSpace"></a><br/>
-
-<div align=center>
-    <img style="width:35.4347%; height:auto" src="https://github.com/oslabs-beta/FlowSpace/raw/npmPackage/client/assets/model_architecture.gif"/>
-    <img style="width:35.4347%; height:auto" src="https://github.com/oslabs-beta/FlowSpace/raw/npmPackage/client/assets/loss_graphing_panel.gif"/>
-<div>
-</details>
-
-<!-- ## Credits (Contributors) <a name = "credits"></a>
-Give credits to the team here, we can make list if needed -->
-
-<details open> 
     <summary><b> License </b></summary> <a name="license"></a>
 
 MIT License
@@ -178,10 +114,9 @@ SOFTWARE.
 <details open> 
     <summary><b> The Team </b></summary> <a name="contacts"></a>
 
-- [Mark Alexander](https://github.com/MarkA772)
-- [Saif Beiruty](https://github.com/saifbeiruty)
-- [Laurence Diarra](https://github.com/ld17282)
-- [Mike Oakes](https://github.com/MOakes7)
-- [Sabre Nguyen](https://github.com/klsabren)
+<p>Laurence is a creative Astronautical Engineer 🚀 turned Software Engineer 👩🏽‍💻, highly skilled in JavaScript, React, CSS/SCSS, and Three.js. I am adept at driving ideas to fruition, wrangling the ideation process by distilling ideas to their essence and nurturing them into tangible projects. I consistently harnesses my dedication to creativity in order to foster a culture of innovative thought, and always rises to the challenge of sustaining motivation that cascades throughout a team.</p>
+
+- [GitHub](https://github.com/ld17282)
+- [LinkedIn](https://www.linkedin.com/in/laurencediarra/)
 
 </details>
