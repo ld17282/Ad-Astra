@@ -1,0 +1,341 @@
+/* reset default styles */
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+  /* position: relative; */
+}
+
+
+@font-face {
+  font-family: 'Aeonik';
+  src: local('Aeonik-Air'), url('/client/src/fonts/Aeonik/Aeonik-Air.otf') format('otf');
+  src: local('Aeonik-AirItalic'), url('/client/src/fonts/Aeonik/Aeonik-AirItalic.otf') format('otf');
+  src: local('Aeonik-Black'), url('/client/src/fonts/Aeonik/Aeonik-Black.otf') format('otf');
+  src: local('Aeonik-BlackItalic'), url('/client/src/fonts/Aeonik/Aeonik-BlackItalic.otf') format('otf');
+  src: local('Aeonik-Bold'), url('/client/src/fonts/Aeonik/Aeonik-Bold.otf') format('otf');
+  src: local('Aeonik-BoldItalic'), url('/client/src/fonts/Aeonik/Aeonik-BoldItalic.otf') format('otf');
+  src: local('Aeonik-Light'), url('/client/src/fonts/Aeonik/Aeonik-Light.otf') format('otf');
+  src: local('Aeonik-LightItalic'), url('/client/src/fonts/Aeonik/Aeonik-LightItalic.otf') format('otf');
+  src: local('Aeonik-Medium'), url('/client/src/fonts/Aeonik/Aeonik-Medium.otf') format('otf');
+  src: local('Aeonik-MediumItalic'), url('/client/src/fonts/Aeonik/Aeonik-MediumItalic.otf') format('otf');
+  src: local('Aeonik-Regular'), url('/client/src/fonts/Aeonik/Aeonik-Regular.otf') format('otf');
+  src: local('Aeonik-RegularItalic'), url('/client/src/fonts/Aeonik/Aeonik-RegularItalic.otf') format('otf');
+  src: local('Aeonik-Thin'), url('/client/src/fonts/Aeonik/Aeonik-Thin.otf') format('otf');
+  src: local('Aeonik-ThinItalic'), url('/client/src/fonts/Aeonik/Aeonik-ThinItalic.otf') format('otf');
+}
+
+@font-face {
+  font-family: 'TAN-NIMBUS';
+  src: local('TAN-NIMBUS-1'), url('/client/src/fonts/TAN-NIMBUS/TAN-NIMBUS.otf') format('otf');
+  src: local('TAN-NIMBUS-2'), url('/client/src/fonts/TAN-NIMBUS/TAN-NIMBUS.ttf') format('ttf');
+}
+
+.subHeader {
+padding-top: 2%;
+padding-bottom: 2%;
+}
+
+.websiteTitle {
+  font-family: TAN-NIMBUS;
+  font-size: x-large;
+  color: #F4B400;
+  position: absolute;
+  padding-top: 2rem;
+  padding-left: 45%;
+  padding-bottom: 5%;
+}
+
+.upcomingLaunchesHeader {
+  font-family: Aeonik-Light;
+  font-size: x-large;
+  color:white;
+  margin-top: 60px;
+  position: absolute;
+  padding-left: 4.1%;
+}
+
+.upcomingLaunchesUnderline {
+  font-family: Helvetica;
+  font-weight: 50;
+  font-size: x-large;
+  color:#F4B400;
+  margin-top: 70px;
+  position: absolute;
+  padding-left: 4.1%;
+}
+
+.launchesLoading {
+  font-family: Aeonik-Regular;
+  font-weight: 50;
+  font-size: x-large;
+  color:white;
+  margin-top: 70px;
+  position: absolute;
+  padding-left: 4.1%;
+}
+
+html {
+  box-sizing: border-box;
+  font: 62.5% 'Source Sans Pro', sans-serif;
+}
+
+body {
+  margin: 0px;
+  line-height: 1.3;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 2.2rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+h3 {
+  font-size: 1.8rem;
+}
+
+a,
+p,
+li,
+div {
+  font-size: 1.4rem;
+}
+
+small {
+  font-size: 1.2rem;
+}
+
+figure {
+  margin-block-start: 0;
+  margin-block-end: 0;
+  margin-inline-start: 0;
+  margin-inline-end: 0;
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+
+/* app container styling */
+
+
+body {
+  /*
+  padding-left: 5rem;
+  padding-right: 5rem; */
+  // background: url(/client/assets/backgrounds/Background-UpcomingLaunches.svg);
+  background-color: black;
+  /* Set background image to fixed (don't scroll along with the page) */
+  background-attachment: fixed;
+  /* Center the background image */
+  background-position: center;
+  /* Set the background image to no repeat */
+  background-repeat: no-repeat;
+  /* Scale the background image to be as large as possible */
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
+}
+
+.mainSection {
+  margin-bottom: 5rem;
+}
+
+.tile:hover {
+  transform: translateY(-10px);
+  transition: all .3s ease-in-out;
+}
+
+// .ReactCardFlip {
+//   -webkit-backdrop-filter: saturation(100%) blur(30%);
+//   backdrop-filter: blur(35px);
+// }
+
+.tile {
+  height: 420px;
+  width: 260px;
+  border-radius: 20px;
+  background: rgba(63, 63, 63, 0.4);
+  backdrop-filter: blur(16px) saturate(180%);
+  -webkit-backdrop-filter: blur(16px) saturate(180%);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 0 80px rgba(0, 0, 0, 0.25);
+  padding: 30px 30px 30px 30px;
+  overflow: hidden; 
+}
+
+.Falcon9 img {
+  size: 20%;
+  width:5em; 
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  overflow: visible;
+}
+
+.FalconHeavy img {
+  size: 20%;
+  width:8.02em; 
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  overflow: visible;
+}
+
+.Starship img, .SuperHeavy img {
+  width:10em; 
+  height: auto;
+  display: block;
+  position: relative;
+  margin-right: auto;
+  margin-left: auto;
+  overflow: visible;
+}
+
+.icon {
+  color: white;
+  text-decoration: none;
+  position: relative;
+}
+
+
+.icon:hover {
+  background-color: #F4B400;
+  clip-path: fill-box;
+  transition: all .3s ease-in-out;
+}
+
+
+.pageHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: absolute;
+}
+
+.pageHeader h2 {
+  font-family: Aeonik-Light;
+}
+
+/* launch container */
+.launchContainer {
+  padding: 5rem 5rem;
+  display: grid;
+}
+
+/* launch tiles container */
+.launchTile {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin: 2rem;
+}
+
+/* launch tile header */
+.tileHeadContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center left;
+  row-gap: 10rem;
+}
+
+.tileHeadContainer .link {
+  width: 100%;
+  margin-left: 15rem;
+  margin-top: 1rem;
+}
+
+.tileHeadContainer li {
+  font-size: larger;
+}
+
+.tileHeadContainer .favIcon {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.tileDateHeader {
+  font-family: TAN-NIMBUS;
+  opacity: 75%;
+}
+
+
+.tileDetailHeader {
+  font-family: Aeonik-Medium;
+  color: #F4B400;
+}
+
+.tileDetail {
+  font-family: Aeonik-Air;
+  color: white;
+  padding-bottom: 1rem;
+}
+
+/* launch tile photo */
+.launchTile .charPhoto {
+  justify-content: center;
+}
+
+
+
+/*
+  MEDIA QUERIES
+  0 - 600px - Mobile phones
+  600 - 900px - Tablet portrait
+  900 - 1200px - Tablet landscape
+  1200 - 1800px - Desktop - normal styles
+  1800px + Large desktop
+*/
+/* Mobile */
+@media screen and (max-width: 600px) {
+  .launchContainer {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .launchTile .charPhoto {
+    justify-content: flex-start;
+  }
+}
+
+/* Tablet */
+@media screen and (min-width: 601px) and (max-width: 900px) {
+  .launchContainer {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Normal */
+@media screen and (min-width: 901px) and (max-width: 1200px) {
+  .launchContainer {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* Lg Screen */
+@media screen and (min-width: 1201px) {
+  .launchContainer {
+    grid-template-columns: repeat(5, 1fr);
+  }
+}
