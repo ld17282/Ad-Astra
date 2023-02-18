@@ -16,12 +16,12 @@
 Never Miss Out On Witnessing History 
 
 ![GitHub top language](https://img.shields.io/github/languages/top/ld17282/Ad-Astra) &nbsp;
-![GitHub package.json version](https://img.shields.io/github/package-json/v/oslabs-beta/flowspace) &nbsp;
-![npm](https://img.shields.io/npm/v/flowspace.js) &nbsp;
-![GitHub](https://img.shields.io/github/license/oslabs-beta/flowspace) &nbsp;
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/oslabs-beta/flowspace/dev) &nbsp;
-![GitHub contributors](https://img.shields.io/github/contributors/oslabs-beta/flowspace) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/oslabs-beta/FlowSpace?style=social) &nbsp;
+![GitHub package.json version](https://img.shields.io/github/package-json/v/ld17282/Ad-Astra) &nbsp;
+<!--![npm](https://img.shields.io/npm/v/flowspace.js) &nbsp;-->
+![GitHub](https://img.shields.io/github/license/ld17282/Ad-Astra) &nbsp;
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ld17282/Ad-Astra/main) &nbsp;
+![GitHub contributors](https://img.shields.io/github/contributors/ld17282/Ad-Astra) &nbsp;
+![GitHub Repo stars](https://img.shields.io/github/stars/ld17282/Ad-Astra?style=social) &nbsp;
 
 </h2>
 </h1>
