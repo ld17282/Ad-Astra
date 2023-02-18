@@ -11,10 +11,11 @@
 <br/>
 <img height= "200" src="./src/client/assets/readme logo.png">
 
+Ad Astra keeps track of all upcoming SpaceX rocket launches. Launch dates change constantly, so Ad Astra acts as your launch concierge to make sure you never miss out on witnessing history.
 
 <center>
 
-<h2>Never Miss Out On Witnessing History</h2>
+<center><h2>Never Miss Out On Witnessing History</h2><center>
 
 ![GitHub top language](https://img.shields.io/github/languages/top/ld17282/Ad-Astra) &nbsp;
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/ld17282/Ad-Astra) &nbsp;
@@ -42,15 +43,6 @@ Ad Astra keeps track of all upcoming SpaceX rocket launches. Launch dates change
         <li>
             <a href = "#techStack"> Tech-Stack </a>
         </li>
-        <li>
-            <a href = "#installAndSetup"> Install and Set-up </a>
-        </li> 
-        <li>
-            <a href = "#usingFlowSpace"> Using FlowSpace Features </a>
-        </li> 
-        <!-- <li>
-            <a href = "#credits"> Credits and Contributors </a>
-        </li>  -->
         <li>
             <a href = "#license"> License </a>
         </li> 
