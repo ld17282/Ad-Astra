@@ -11,6 +11,7 @@
 <br/>
 <img height= "200" src="./src/client/assets/readme logo.png">
 
+
 <center>
 <br/>
 Never Miss Out On Witnessing History
@@ -54,7 +55,7 @@ Ad Astra keeps track of all upcoming SpaceX rocket launches. Launch dates change
 
 <details open> 
     <summary><b> Tech-Stack </b></summary> <a name="techStack"></a>
-    <div align="center">
+    <!-- <div align="center">
         <div align="center">
             <div align="center">
                 <div align="center">
@@ -76,8 +77,8 @@ Ad Astra keeps track of all upcoming SpaceX rocket launches. Launch dates change
         <img height = "40" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
         <img height = "40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-shadow-tal-revivo.png"/>
     </code> <br>
-    </div>
-
+    </div> -->
+    <img height= "200" src="./src/client/assets/readme tech stack diagram.png">
 </details>
 
 <details open> 
