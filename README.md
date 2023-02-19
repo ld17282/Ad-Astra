@@ -78,7 +78,7 @@ Ad Astra keeps track of all upcoming SpaceX rocket launches. Launch dates change
         <img height = "40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-shadow-tal-revivo.png"/>
     </code> <br>
     </div> -->
-    <img height= "200" src="./src/client/assets/readme tech stack diagram.png">
+    <img height= "100%" src="./src/client/assets/readme tech stack diagram.png">
 </details>
 
 <details open> 
