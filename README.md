@@ -15,6 +15,7 @@
 <center>
 <br/>
 Never Miss Out On Witnessing History
+<br/>
 
 ![GitHub top language](https://img.shields.io/github/languages/top/ld17282/Ad-Astra) &nbsp;
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/ld17282/Ad-Astra) &nbsp;
@@ -55,29 +56,6 @@ Ad Astra keeps track of all upcoming SpaceX rocket launches. Launch dates change
 
 <details open> 
     <summary><b> Tech-Stack </b></summary> <a name="techStack"></a>
-    <!-- <div align="center">
-        <div align="center">
-            <div align="center">
-                <div align="center">
-                    <code>
-                        <img height= "40" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-                    </code> <br>
-                </div>
-                    <code>
-                        <img height = "40" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-                        <img height = "40" src="https://img.icons8.com/color/48/000000/css3.png"/>
-                    </code> <br>
-                </div>
-            <code>
-                <img height = "40" src="https://img.icons8.com/bubbles/50/000000/react.png"/>
-                <img height = "40" src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
-            </code><br>
-        </div>
-    <code>
-        <img height = "40" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-        <img height = "40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-shadow-tal-revivo.png"/>
-    </code> <br>
-    </div> -->
     <img height= "100%" src="./src/client/assets/readme tech stack diagram.png">
 </details>
 
