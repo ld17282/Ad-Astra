@@ -63,7 +63,7 @@ Ad Astra keeps track of all upcoming SpaceX rocket launches. Launch dates change
 <details open> 
     <summary><b> The Team </b></summary> <a name="contacts"></a>
 
-<p>Laurence is a creative Astronautical Engineer 🚀 turned Software Engineer 👩🏽‍💻, highly skilled in JavaScript, React, CSS/SCSS, and Three.js. I am adept at driving ideas to fruition, wrangling the ideation process by distilling ideas to their essence and nurturing them into tangible projects. I consistently harnesses my dedication to creativity in order to foster a culture of innovative thought, and always rises to the challenge of sustaining motivation that cascades throughout a team.</p>
+<p>Laurence is a creative Astronautical Engineer 🚀 turned Software Engineer 👩🏽‍💻, highly skilled in JavaScript, React, CSS/SCSS, and Three.js. She is adept at driving ideas to fruition, wrangling the ideation process by distilling ideas to their essence, and nurturing them into tangible projects. She consistently harnesses her dedication to creativity in order to foster a culture of innovative thought, and always rises to the challenge of sustaining motivation that cascades throughout a team.</p>
 
 - [GitHub](https://github.com/ld17282)
 - [LinkedIn](https://www.linkedin.com/in/laurencediarra/)
