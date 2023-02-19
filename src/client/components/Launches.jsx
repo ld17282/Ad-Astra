@@ -32,16 +32,16 @@ const Launches = () => {
 
   return (
     <div>
-      <header>
-        <ul className="subHeader">
+      <header className="subHeader">
+        <ul>
           <li className="upcomingLaunchesHeader">UPCOMING LAUNCHES</li>
           <li className="upcomingLaunchesUnderline">_________</li>
         </ul>
       </header>
-      <section className="mainSection">
-        <header className="pageHeader"></header>
+
+      <div className='outterContainer'>
         <div className="launchContainer">{launchTiles}</div>
-      </section>
+      </div>
     </div>
   );
 };
