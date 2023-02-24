@@ -13,7 +13,6 @@ spaceXController.getLaunches = (req, res, next) => {
     .then((data) => data.json())
     // ALGORITHM TO PARSE DATA INTO CORRECT FORM
     .then((data) => {
-      console.log(data);
       // DECLARE EMPTY LAUNCHES ARRAY TO POPULATE WITH LAUNCH OBJECTS
       const launches = [];
 

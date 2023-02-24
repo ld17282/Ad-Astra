@@ -9,7 +9,9 @@ const Launches = () => {
   const [launches, setLaunches] = useState([]);
   const [fetchedLaunches, setFetchedLaunches] = useState(false);
 
+
   // COMBINES ComponentDidMount + ComponentDidUpdate + ComponentWillMount 
+  // TO FETCH 25 LAUNCHES AT A TIME 
   useEffect(() => {
     fetch('http://localhost:1938/upcoming-launches')
       .then((res) => res.json())
@@ -20,6 +22,7 @@ const Launches = () => {
         setFetchedLaunches(true);
       });
   }, []);
+
   
   // IF FETCH REQUEST FAILS, I.E LAUNCHES IS EMPTY OR FETCHEDLANCHES IS FALSE
   if (!launches) return null;
