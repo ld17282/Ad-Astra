@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { BrowserRouter, Routes, Route } from 'react-dom';
 import Background from './components/Background.jsx';
 import Launches from './components/Launches.jsx';
 import './style/App.scss';
@@ -12,7 +12,6 @@ const App = (props) => {
           <BrowserRouter>
             <Routes>
               <Route path="/" element={<Launches />} />
-              {/* <Route exact path="/login" component={LoginPage} /> */}
             </Routes>
           </BrowserRouter>
         </div>

@@ -6,7 +6,8 @@
     "dev": "nodemon src/server/main.js -w src/server",
     "start": "NODE_ENV=production node src/server/main.js",
     "build": "vite build",
-    "format": "prettier --write \"***/**/*.{js,jsx}\""
+    "format": "prettier --write \"***/**/*.{js,jsx}\"",
+    "deploy": "vercel --prod"
   },
   "dependencies": {
     "cors": "^2.8.5",
@@ -18,6 +19,7 @@
     "react-dom": "^18.2.0",
     "sass": "^1.58.2",
     "styled-components": "^5.3.5",
+    "vercel": "^28.16.7",
     "vite-express": "*",
     "webkit-npm": "^3.1.1"
   },
